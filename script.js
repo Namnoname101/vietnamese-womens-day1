@@ -14,7 +14,7 @@ const recipients = [
     },
     {
         name: "Chang",
-        message: "20/10 vui vẻ nhé chị! Luôn mạnh mẽ, tự tin và tỏa sáng theo cách riêng của mình!",
+        message: "20/10 vui vẻ nhé ! Luôn mạnh mẽ, tự tin và tỏa sáng theo cách riêng của mình!",
         image: "./image/chang.jpg", 
         color: "bg-yellow-100 border-yellow-400" 
     },
